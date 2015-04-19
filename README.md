@@ -13,12 +13,7 @@
 下载最新版本的nodejs自带npm
 
 ###三、express的安装
-
-<<<<<<< HEAD
-    npm install -g express-generator
-=======
     $ npm install express-generator -g
->>>>>>> branch 'master' of git@git.coding.net:lionney/nodejs_blog.git
 
 ###四、blog项目的建立
 服务器新建一个blog文件夹，之后初始化express blog项目
